@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 
-![Abdelhak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelhakmorhlia01-hub&show_icons=true&theme=default&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=abdelhakmorhlia01-hub&color=blue&style=flat)
 
 ## 📫 Connect With Me
 
