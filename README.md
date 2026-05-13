@@ -33,6 +33,7 @@
 | [🚗 Spain Road Accidents 2023](https://github.com/abdelhakmorhlia01-hub/Spain-Road-Accidents-Analysis-2023) | Python, GeoPandas | 100K+ accidents · geospatial analysis |
 | [📦 Olist E-Commerce](https://github.com/abdelhakmorhlia01-hub/olist-ecommerce-analysis) | Python, SQL | Brazilian market · 100K+ orders |
 | [🔍 E-Commerce Funnel SQL](https://github.com/abdelhakmorhlia01-hub/ecommerce-funnel-marketing-analysis-sql) | MySQL | Conversion rates & funnel analysis |
+| [🍽️ Restaurant Orders Analysis](https://github.com/abdelhakmorhlia01-hub/restaurant-orders-analysis) | Google Sheets | 5K+ orders · pivot tables & dashboard |
 
 ## 📊 GitHub Stats
 
